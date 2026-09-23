@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the fastest land animal?", 
+        "options": ["A. Cheetah", "B. Lion", "C. Goat", "D. Jaguar"],
+        "answer": "A"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": ["A. Au", "B. CH", "C. Go", "D. Gd"],
+        "answer": "A"
+    },
+    {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["A. Earth", "B. Jupiter", "C. Mercury", "D. Satus"],
+        "answer": "C"
+    },
+    {
+        "question": "Who wrote the Harry Potter series?",
+        "options": ["A. Whit Whatman", "B. None", "C. J.K. Rowling", "D. Bryan Thomas"],
+        "answer": "C"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["A. Avocado", "B. Citric", "C. Lemon", "D. Papaya"],
+        "answer": "A"
+    },
+    {
+        "question": "Which ocean is the largest on Earth?",
+        "options": ["A. Madagascar sea", "B. The Pacific Ocean", "C. The Atlantic Ocean", "D. River Benue"],
+        "answer": "B"
+    },
+    {
+        "question": "What animal can be seen on the Porsche logo?",
+        "options": ["A. Bull", "B. Horse", "C. Pheonix", "D. Cheetah"],
+        "answer": "B"
+    },
+    {
+        "question": "What food never spoils",
+        "options": ["A. Beans", "B. Honey", "C. Dry Rice", "D. Garri"],
+        "answer": "B"
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "options": ["A. Madrid", "B. Porto-rico", "C. New York", "D. New Jersey"],
+        "answer": "A"
+    },
+    {
+        "question": "Which planet is the largest in the Solar System?",
+        "options": ["A. Earth", "B. Venus", "C. Jupiter", "D. Mars"],
+        "answer": "C"
+    }
+]
